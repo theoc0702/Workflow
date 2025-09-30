@@ -25,13 +25,14 @@ Pour organiser notre travail collaboratif, nous avons choisi d’utiliser le **G
 3. **Pousser la branche sur GitHub**
    ```bash
    git push origin feature/ma-tache
-Créer une Pull Request (PR)
+   
+4. Créer une Pull Request (PR)
 
 Sur GitHub, ouvrir une PR de feature/ma-tache vers main.
 
 L’équipe relit le code et propose des améliorations.
 
-Revue de code et corrections
+5. Revue de code et corrections
 
 Les autres membres commentent la PR.
 
@@ -42,7 +43,8 @@ Copier le code
 git add .
 git commit -m "Corrections après revue"
 git push origin feature/ma-tache
-Merge dans main
+
+6. Merge dans main
 
 Une fois validée, la branche est fusionnée dans main.
 

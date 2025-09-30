@@ -12,6 +12,3 @@ Ce fichier regroupe une liste des bonnes pratiques à avoir pour simplifier et u
 
 ### Commandes_de_base.md
 Ce fichier regroupe les commandes de bases à utiliser pour l'installation du projet en local, pour créer sa branche, naviguer entre les autres et faire ses commit.
-
-### workflow.md
-Ce fichier regroupe des informations sur la façon de travailler au cours du projet.

@@ -34,6 +34,10 @@ git checkout main
 ```bash
 git push origin feature/ma-tache
 ```
+ou
+```bash
+git push --set-upstream origin [nom de branche]
+```
 
 # Fusionner une branche dans main
 ```bash

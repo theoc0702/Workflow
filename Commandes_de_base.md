@@ -3,6 +3,11 @@
 git init
 ```
 
+# Cloner le dépôt
+```bash
+git clone git@github.com:theoc0702/Workflow.git
+```
+
 # Vérifier l’état
 ```bash
 git status

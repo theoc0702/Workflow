@@ -40,4 +40,17 @@ git push origin feature/ma-tache
 git checkout main
 git merge feature/ma-tache
 ```
+# Cloner un dépôt existant
+```bash
+git clone <url-du-dépôt>
+```
 
+# Récupérer les dernières modifications
+```bash
+git pull
+```
+
+# Voir l’historique des commits
+```bash
+git log
+```

@@ -1,5 +1,5 @@
 # Initialiser le dépôt
-git init
+git init // test conflit
 
 # Vérifier l’état
 git status
@@ -23,3 +23,4 @@ git push origin feature/ma-tache
 # Fusionner une branche dans main
 git checkout main
 git merge feature/ma-tache
+
